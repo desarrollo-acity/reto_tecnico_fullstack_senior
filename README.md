@@ -156,10 +156,11 @@ Response:
 
 ## Frontend (React)
 
-- React 16+
-- Manejo de rutas
-- Consumo de API REST
-- Manejo de estado de autenticación
+- **React 16+ y/o Next.js**
+- Manejo de rutas(React Router / Next Router)
+- Estilos con **Tailwind CSS**, CSS o Styled Components
+- Consumo de **API REST**
+- Manejo de **estado de autenticación**
 
 ### Pantallas requeridas:
 
