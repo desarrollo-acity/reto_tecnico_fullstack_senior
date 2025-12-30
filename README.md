@@ -210,6 +210,9 @@ CREATE TABLE Pedidos (
 - Navegación funcional
 - Correcta integración con API
 
+⭐ Bonus:
+- Mejoras creativas de UX no requeridas explícitamente
+
 ---
 
 # 📬 **9. Entrega Final**
